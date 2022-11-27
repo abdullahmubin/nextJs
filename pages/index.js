@@ -12,10 +12,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Link href="/about">About</Link>
-      <Link href="/profile">Profile</Link>
-      <Link href="/profile/mubin">My Profile</Link>
-      
       <main className={styles.main}>
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
